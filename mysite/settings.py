@@ -25,7 +25,7 @@ SECRET_KEY = '_dvnf^279jil%v=dj^r0@litx&cdkd2^0e@lj-s9fjs83%9bea'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Svetik>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mashamash.pythonanywhere.com']
 
 
 # Application definition
